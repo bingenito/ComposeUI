@@ -19,7 +19,7 @@
     "@angular/forms": "17.0.9",
     "@angular/material": "17.0.5",
     "@angular/platform-browser": "17.0.9",
-    "@angular/platform-browser-dynamic": "17.0.9",
+    "@angular/platform-browser-dynamic": "17.2.3",
     "@angular/router": "17.0.9",
     "material-icons": "1.13.12",
     "@morgan-stanley/composeui-messaging-client": "*",
